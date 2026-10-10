@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Watson's Blog</title>
+    <link>https://blog.9799999.xyz</link>
+    <description>Watson 的赛博空间 - 折腾、做饭、自学建站、独立开发</description>
+    <language>zh-CN</language>
+    <atom:link href="https://blog.9799999.xyz/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>当设计不再追求"干净"</title>
+      <link>https://blog.9799999.xyz#post-1</link>
+      <guid>https://blog.9799999.xyz#post-1</guid>
+      <category>设计美学</category>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0800</pubDate>
+      <description>我们被 Apple 的设计语言统治太久了。是时候加点噪音，加点边框，让网页看起来像个大玩具。</description>
+    </item>
+    <item>
+      <title>Tailwind CSS 是永远的神</title>
+      <link>https://blog.9799999.xyz#post-2</link>
+      <guid>https://blog.9799999.xyz#post-2</guid>
+      <category>前端开发</category>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0800</pubDate>
+      <description>很多人说它让 HTML 变乱了，但我说它让开发变快了 10 倍。</description>
+    </item>
+    <item>
+      <title>如何免费部署静态博客</title>
+      <link>https://blog.9799999.xyz#post-3</link>
+      <guid>https://blog.9799999.xyz#post-3</guid>
+      <category>教程</category>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0800</pubDate>
+      <description>Cloudflare Pages + GitHub 是目前最强的组合，没有之一。速度快，还免费。</description>
+    </item>
+    <item>
+      <title>我的 2025 年度总结</title>
+      <link>https://blog.9799999.xyz#post-4</link>
+      <guid>https://blog.9799999.xyz#post-4</guid>
+      <category>生活</category>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0800</pubDate>
+      <description>这一年我做了跨境电商，学了做网站，搭建博客。</description>
+    </item>
+  </channel>
+</rss>
